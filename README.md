@@ -1,4 +1,5 @@
 # Spoken, Not Stirred - an at home game to play with your mates.
+### This was my teams final group project. It was a collaborative 7 day project which included, React youtube API, web speech to text and game logic. 
 
 # group DYNAMICS
 ## TEAM ROLES ##
